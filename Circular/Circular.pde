@@ -1,3 +1,6 @@
+// Maheswaran Sathiamoorthy
+// http://smahesh.com
+
 int s = 500;
 int rot = 0;
 void setup() {
